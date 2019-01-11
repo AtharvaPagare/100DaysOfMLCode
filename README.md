@@ -15,5 +15,8 @@ Finished up on making the notebook, I shifted my focus on revising basics of  Gi
 
 # Day 4:
 10/1/2019
-Finished with basics of Git and GIthub. I also finished learning the details of exploratory data analysis with the help of ths course - https://www.coursera.org/learn/data-analysis-with-python/home
+Finished with basics of Git and Github course. I also finished learning the details of exploratory data analysis with the help of ths course - https://www.coursera.org/learn/data-analysis-with-python/home
 
+# Day 5:
+11/01/2019
+Revised concepts of Regression and Regularization with a notebook. Also learned about various seaborn plotting function for continous and categorical feature selection.
