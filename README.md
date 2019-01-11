@@ -12,3 +12,8 @@ I decided to learn about data cleaning before it goes into analysis pipeline, so
 # Day 3:
 9/1/2019
 Finished up on making the notebook, I shifted my focus on revising basics of  Git and Github by finishing first 2 important lessons on Udacity's Git and Github course. This should help me more with this repository!
+
+# Day 4:
+10/1/2019
+Finished with basics of Git and GIthub. I also finished learning the details of exploratory data analysis with the help of ths course - https://www.coursera.org/learn/data-analysis-with-python/home
+
