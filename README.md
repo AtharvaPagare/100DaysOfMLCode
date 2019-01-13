@@ -20,3 +20,7 @@ Finished with basics of Git and Github course. I also finished learning the deta
 # Day 5:
 11/01/2019
 Revised concepts of Regression and Regularization with a notebook. Also learned about various seaborn plotting function for continous and categorical feature selection.
+
+# Day 6:
+12/01/2019
+Started with IBM specialization in Data Science - Data Visualization in python course. Into week three now. This course is very helpful to clear my concepts in data visualisation.
