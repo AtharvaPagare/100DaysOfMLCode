@@ -24,3 +24,7 @@ Revised concepts of Regression and Regularization with a notebook. Also learned 
 # Day 6:
 12/01/2019
 Started with IBM specialization in [Data Science - Data Visualization in python course](https://www.coursera.org/learn/python-for-data-visualization/). Into week three now. This course is very helpful to clear my concepts in data visualisation.
+
+# Day 7:
+13/01/2019
+Finished with the [Data Visualisation course](https://www.coursera.org/learn/python-for-data-visualization/). Also started with [Titanic Dataset Challenge on Kaggle]('https://www.kaggle.com/c/titanic') - finished with data prepreocessing, into data visualisation part now, hopefully will start modelling soon.
