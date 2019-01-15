@@ -28,3 +28,7 @@ Started with IBM specialization in [Data Science - Data Visualization in python 
 # Day 7:
 13/01/2019
 Finished with the [Data Visualisation course](https://www.coursera.org/learn/python-for-data-visualization/). Also started with [Titanic Dataset Challenge on Kaggle](https://www.kaggle.com/c/titanic) - finished with data prepreocessing, into data visualisation part now, hopefully will start modelling soon.
+
+# Day 8:
+14/01/2019
+Started the modelling part of the [Titanic Dataset Challenge on Kaggle](https://www.kaggle.com/c/titanic). This enabled me revise the concepts of various classification algorithms.
