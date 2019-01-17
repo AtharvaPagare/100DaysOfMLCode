@@ -36,3 +36,7 @@ Started the modelling part of the [Titanic Dataset Challenge on Kaggle](https://
 # Day 9
 15/01/2019
 Applied bunch of classification algorithms to the Titanic dataset. Found out that support vector machines gave the best accuracy using cross validation, the final score improved accuracy more than 6% than my last submission (which I made months ago). Will try to implement some more algorithms.
+
+# Day 10
+16/01/2019
+Learned various types of Ensemble methods especially - Random Forest, Voting Classifier, Extra Trees. Also went through the mathematics of Support Vector Machines.
