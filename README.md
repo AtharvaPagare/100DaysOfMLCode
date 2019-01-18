@@ -40,3 +40,11 @@ Applied bunch of classification algorithms to the Titanic dataset. Found out tha
 # Day 10
 16/01/2019
 Learned various types of Ensemble methods especially - Random Forest, Voting Classifier, Extra Trees. Also went through the mathematics of Support Vector Machines.
+
+# Day 11
+17/01/2019
+Continued learning concepts of ensemble methods learning.
+
+# Day 12 
+18/01/2019
+Referred to some concepts regarding Exploratory Data Analysis. Also learning about various metrics to determine the quality of a machine learning model.
