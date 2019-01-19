@@ -48,3 +48,7 @@ Continued learning concepts of ensemble methods learning.
 # Day 12 
 18/01/2019
 Referred to some concepts regarding Exploratory Data Analysis. Also learning about various metrics to determine the quality of a machine learning model.
+
+# Day 13
+19/01/2019
+Implemented voting classifier to Titanic Dataset but did not achieve a better performance than Rbf kernel based SVM. Will try to continue efforts towards Titanic Dataset, but for now I have turned my attention back to convolutional neural networks. Went through [AlexNet Research Paper](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf).
