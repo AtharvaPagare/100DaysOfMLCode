@@ -3,7 +3,7 @@ This repository contains the #100DaysOfML challege undertaken by me starting 7th
 
 # Day 1:
 7/1/2019
-I resumed the Convolutional neural networks course on deeplearning.ai. Into week 3 of the course now.
+I resumed the Convolutional neural networks course on deeplearning.ai. Into week 2 of the course now.
 
 # Day 2:
 8/1/2019
@@ -52,3 +52,7 @@ Referred to some concepts regarding Exploratory Data Analysis. Also learning abo
 # Day 13
 19/01/2019
 Implemented voting classifier to Titanic Dataset but did not achieve a better performance than Rbf kernel based SVM. Will try to continue efforts towards Titanic Dataset, but for now I have turned my attention back to convolutional neural networks. Went through [AlexNet Research Paper](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf).
+
+# Day 14 
+20/01/2019
+Learned about keras framework and also implemented Resnet-50 model in keras. Completed week 2 of deeplearning.ai couse on Convolutional neural network. 
