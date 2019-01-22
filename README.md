@@ -56,3 +56,7 @@ Implemented voting classifier to Titanic Dataset but did not achieve a better pe
 # Day 14 
 20/01/2019
 Learned about keras framework and also implemented Resnet-50 model in keras. Completed week 2 of deeplearning.ai couse on Convolutional neural network. 
+
+# Day 15
+21/01/2019
+Learned about YOLO(You Only Look Once) Object Detection Algorithm. Starting to implement it in keras in the course's programming assignnment.
