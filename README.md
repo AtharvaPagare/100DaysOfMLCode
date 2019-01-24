@@ -60,3 +60,11 @@ Learned about keras framework and also implemented Resnet-50 model in keras. Com
 # Day 15
 21/01/2019
 Learned about YOLO(You Only Look Once) Object Detection Algorithm. Starting to implement it in keras in the course's programming assignnment.
+
+# Day 16
+22/01/2019
+Acquinted myself with tensorflow.js which I would be requiring for a Computer Vision Related project.
+
+# Day 17
+23/01/2019
+Created the setup for Dogs Vs. Cats classification project. 
