@@ -68,3 +68,11 @@ Acquinted myself with tensorflow.js which I would be requiring for a Computer Vi
 # Day 17
 23/01/2019
 Created the setup for Dogs Vs. Cats classification project. 
+
+# Day 18
+24/01/2019
+Started the kaggle Dog Vs. Cat classification. Looking forward to implement a good algorithm.
+
+# Day 19, 20
+25/01/2019, 26/01/2019
+Fixed the problem of tensorflow environment on my PC. Also learned basics of files in python, which needed a revision.
