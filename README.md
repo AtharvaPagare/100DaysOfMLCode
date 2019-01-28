@@ -76,3 +76,11 @@ Started the kaggle Dog Vs. Cat classification. Looking forward to implement a go
 # Day 19, 20
 25/01/2019, 26/01/2019
 Fixed the problem of tensorflow environment on my PC. Also learned basics of files in python, which needed a revision.
+
+# Day 21
+27/01/2019
+Continued in the kaggle problem.
+
+# Day 28
+28/01/2019
+Started with deeplearing book by Ian Goodfellow. Finished with Linear Algebra and now starting with probability distribution.
