@@ -81,6 +81,10 @@ Fixed the problem of tensorflow environment on my PC. Also learned basics of fil
 27/01/2019
 Continued in the kaggle problem.
 
-# Day 28
+# Day 22
 28/01/2019
 Started with deeplearing book by Ian Goodfellow. Finished with Linear Algebra and now starting with probability distribution.
+
+# Day 23
+29/01/2019
+Continued with the reading of [deeplearningbook](https://www.deeplearningbook.org/).
