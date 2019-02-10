@@ -88,3 +88,11 @@ Started with deeplearing book by Ian Goodfellow. Finished with Linear Algebra an
 # Day 23
 29/01/2019
 Continued with the reading of [deeplearningbook](https://www.deeplearningbook.org/).
+
+# Day 24, 25, 26, 27
+2/02/2019
+Finished with Part 1 of deeplearning book upto first 4 subsections.
+
+# Day 28, 29, 30, 31, 32, 33, 34 
+10/02/2019
+Completed MNIST handwritten digit classification. [Commmit](https://github.com/AtharvaPagare/MNIST_Keras)
